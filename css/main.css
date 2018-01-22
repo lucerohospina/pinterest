@@ -8,31 +8,6 @@ hr {
 }
 
 /* section*/
-section {
-    display: inline-block;
-    left: 75px;
-    font-weight: 700;
-    font-size: 17px;
-    position: fixed;
-    -webkit-transform: translateZ(0);
-    z-index: 1000;
-    background: white;
-    width: auto;
-    margin-top: 50px;
-}
-
-ul {
-    list-style: none;
-    overflow: auto;
-    
-}
-
-li {
-    height: 100px;
-    width: 100px;
-    float: left;
-}
-
 a {
     display: inline-block;
     text-decoration: none;
