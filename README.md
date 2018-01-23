@@ -1,5 +1,5 @@
-# Clase Práctica: Pinterest (maquetado)
+# Pinterest
 
-### Desarrollamos una actividad de html y css en la cual teníamos que replicar la siguiente imagen: 
+## Implementando el framework Bootstrap v. 4
 
-[Pinterest](https://laboratoria.github.io/pinterestify/)
+#### Enero 2018
